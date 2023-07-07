@@ -9,18 +9,18 @@ import { Header } from "./components/Header"
 const mockTodos = [
   {
     id:"1",
-    title:"qweqwe",
+    title:"Estudiar",
     completed:false,
   },
   {
     id:"2",
-    title:"todo 2 sdqwdqdww",
-    completed:false,
+    title:"Meditar",
+    completed:true,
   },
   {
     id:"3",
-    title:"todo 3 sadqwwdw",
-    completed:true,
+    title:"Crear un nuevo proyecto",
+    completed:false,
   },
   
 ]
