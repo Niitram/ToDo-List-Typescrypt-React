@@ -1,3 +1,7 @@
 html{
   filter: invert(1);
 }
+
+.bg-red{
+  background-color: brown;
+}
